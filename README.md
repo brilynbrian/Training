@@ -1,71 +1,52 @@
 # Training
 
-Training for fitness with a five-day morning plan for a mature male. Each session is designed for about 40 minutes and includes light weights, hanging, squats, stretching, core work, and cardio using a standing cycle or elliptical trainer.
+A running and strength plan for an 80-year-old runner, using a stable chair and available 2.5, 3, and 5 lb dumbbells.
 
-## General session format
+## Health and recovery
 
-- 5 minutes: gentle warm-up and joint mobility
-- 20 minutes: strength, hanging, squats, and core focus
-- 10 minutes: standing cycle or elliptical trainer
-- 5 minutes: stretching and cool down
+Strength training is not a reliable treatment for low testosterone. Discuss your result and symptoms with your clinician; a low result generally needs confirmation with repeat morning testing. Treatment depends on your symptoms, overall health, and the potential risks and benefits.
 
-Use light to moderate effort, move with control, and rest as needed. If there are health concerns, adjust the workload and check with a medical professional before starting.
+Eat enough to support your running and recovery. If fatigue or soreness accumulates, reduce the workout rather than pushing through. Stop an exercise if it causes joint pain and seek medical advice. Stop immediately for chest pain, dizziness, or unusual breathlessness; seek urgent medical attention for severe or persistent symptoms.
 
-## Five-day morning training plan
+## Weekly schedule
 
-### Day 1 - Full body foundation
+| Day | Training |
+| --- | --- |
+| Monday | 90-minute run and strength workout |
+| Tuesday | 90-minute run |
+| Wednesday | 90-minute run |
+| Thursday | 90-minute run and strength workout |
+| Friday | 90-minute run |
+| Saturday | Rest |
+| Sunday | Rest |
 
-- Warm-up: shoulder rolls, arm circles, hip circles, ankle mobility
-- Light weights: bicep curls, shoulder press, bent-over row
-- Hanging: short relaxed hangs or assisted hangs
-- Squats: bodyweight squats or chair squats
-- Core: standing knee raises and dead bugs
-- Cardio: standing cycle
-- Stretching: hamstrings, calves, chest, and shoulders
+On Monday and Thursday, strength train after your run only if you feel steady and recovered. Otherwise, do it later that day or shorten the run. Keep both rest days free of running and weights.
 
-### Day 2 - Cardio and mobility focus
+## Strength workout
 
-- Warm-up: easy marching and torso rotation
-- Light weights: lateral raises and light chest press
-- Hanging: two to three short hangs for posture and grip
-- Squats: slow tempo squats
-- Core: seated or standing torso twists and bird dogs
-- Cardio: elliptical trainer
-- Stretching: hips, lower back, quads, and upper back
+Allow about 30 minutes: approximately 5 minutes to warm up, up to 20 minutes for strength, and 5 minutes to cool down. Take the rest you need; one round may take less than the allotted strength time. Use a sturdy, non-rolling chair on a stable surface.
 
-### Day 3 - Strength and balance
+### Warm-up: approximately 5 minutes
 
-- Warm-up: gentle walk in place and mobility drills
-- Light weights: goblet-style hold squats, curls, and overhead press
-- Hanging: controlled hangs with shoulder engagement
-- Squats: split squats to a comfortable depth or supported lunges
-- Core: plank at an incline and heel taps
-- Cardio: standing cycle
-- Stretching: hip flexors, glutes, chest, and neck
+Move gently for about one minute each:
 
-### Day 4 - Recovery-style training
+1. Hamstring sweeps, alternating legs.
+2. Shoulder circles and chest openers.
+3. Step-touches with a gentle torso twist.
+4. Easy marching or walking for two minutes.
 
-- Warm-up: light movement and deep breathing
-- Light weights: very light rows, presses, and triceps extensions
-- Hanging: brief decompression hangs if comfortable
-- Squats: chair-assisted squats
-- Core: pelvic tilts and gentle marching
-- Cardio: easy elliptical trainer pace
-- Stretching: full body with extra time on hips, hamstrings, and shoulders
+### Strength circuit
 
-### Day 5 - Full body endurance
+Start with one round and progress to two as tolerated. Move slowly and with control, especially when lowering, and finish each set feeling you could do about two more repetitions with good form. Rest as needed between exercises and rounds.
 
-- Warm-up: dynamic mobility from head to toe
-- Light weights: circuit of curls, rows, shoulder press, and light deadlift pattern
-- Hanging: short hangs between strength rounds
-- Squats: bodyweight squats with controlled pace
-- Core: modified plank, side bends, and leg marches
-- Cardio: choice of standing cycle or elliptical trainer
-- Stretching: calves, quads, hamstrings, chest, and back
+Choose a comfortable weight from those available; use a lighter weight or no weight when needed.
 
-## Weekly guidance
+1. **Chair squats:** 8–12 repetitions. Sit back toward the chair and stand up under control. Start with bodyweight; hold a dumbbell at your chest if comfortable.
+2. **Dumbbell rows:** 8–12 repetitions per arm. Hinge gently at the hips and pull each elbow toward your ribs, keeping your back comfortably neutral.
+3. **Supported calf raises:** 8–12 repetitions per leg. Hold the chair and rise onto your toes, then lower slowly. Use both legs together if a single leg is too difficult.
+4. **Dumbbell floor press:** 8–12 repetitions. Lie on your back with knees bent, press the weights above your chest, and lower gently. If getting up from the floor is difficult, do wall push-ups instead.
+5. **Suitcase carry:** Walk 20–40 controlled paces with a dumbbell in one hand, then repeat on the other side. Stay upright and use a clear, level path.
 
-- Keep all five sessions in the morning if that fits your routine best.
-- Leave the weekend for rest, walking, or gentle mobility work.
-- Increase repetitions or cardio intensity gradually, not all at once.
-- Stop any movement that causes sharp pain or unusual discomfort.
+### Cool-down: approximately 5 minutes
+
+Walk gently until your breathing settles. Stretch your hamstrings, chest, and upper back gently, holding each stretch for about 20–30 seconds without bouncing. Finish with slow, comfortable breathing.
